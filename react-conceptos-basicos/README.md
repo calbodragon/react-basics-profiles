@@ -34,12 +34,12 @@ React utiliza el llamado HTML virtual DOM, el cual se renderiza mucho más rapid
 **Componentes**
 >Un componente en react es un pedazo de nuestra vista por ejemplo la navbar esta se encapsula en un componente y esto te da la capacidad de poder reutilizarlo las veces que sea necesraio sin necesidad de volver a escribir código.
 
-##**Mi primer react-app**
+## Mi primer react-app
 >Importante: Recuerda que debes tener instalado NodeJs para que puedas crear tu primera app react, para hacer uso del comando npm, React también se puede instalar haciendo uso de `npx`o `yarm`
 >
 Para crear nuestra primera aplicación en react debemos hacer uso de `create-react-app` lo primero que debemos hacer es instalar create-react-app de manera global:
 
-`npm install -g create-react-app``
+`npm install -g create-react-app`
 
 Una vez instalado podemos hacer uso de create-react-app para crear el directorio/carpeta donde va existir nuestra app react:
 
