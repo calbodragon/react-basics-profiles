@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../images/logo-ag-min.png'
 import '../styles/ProfileNewStyle.css'
 import NavBar from '../components/NavbarComponent';
 import Profile from '../components/ProfileComponent';
